@@ -1,0 +1,22 @@
+
+========================================
+       LOG ANALYSIS REPORT
+========================================
+
+Generated At: 2026-11-24 12:18:55.993565
+
+Total Log Entries: 27
+
+INFO Count: 24
+WARNING Count: 3
+ERROR Count: 0
+
+Overall Status: WARNING
+
+Issues Detected:
+
+2026-11-13 11:12:16,433 - WARNING - High CPU utilization detected
+2026-11-13 11:27:50,708 - WARNING - High CPU utilization detected
+2026-11-13 11:27:50,708 - WARNING - High CPU utilization detected: 90%
+
+========================================
